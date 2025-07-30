@@ -1,2 +1,1 @@
-# source-codes
-source codes to my malwares and other stuff i make
+i forgot to mention tis wil also have source codes to other peoples malwares
